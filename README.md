@@ -29,7 +29,7 @@ The analysis employs a combination of techniques:
 
 ## Project Structure
 
-```
+
 brent_oil_analysis/
 ├── data/              # Contains the raw and processed data
 │   ├── BrentOilPrices.csv
@@ -49,13 +49,13 @@ brent_oil_analysis/
 │   │   └── ...
 ├── requirements.txt  # List of required Python packages
 └── README.md         # This file
-```
+
 
 ## Requirements
 
 To run the analysis, you will need the following Python packages:
 
-```
+
 pandas
 numpy
 matplotlib
@@ -63,7 +63,7 @@ statsmodels
 scikit-learn
 warnings
 ruptures
-```
+
 
 You can install these packages using pip:
 
@@ -72,18 +72,14 @@ pip install -r requirements.txt
 ```
 
 For the dashboard, you will need Node.js and npm (or yarn) to install the React dependencies.
-
+```
 ## Running the Analysis
 
 1. Clone the repository: `git clone [repository URL]`
 2. Navigate to the project directory: `cd brent_oil_analysis`
 3. Install the Python requirements: `pip install -r requirements.txt`
 4. Run the Jupyter notebooks in the `notebooks/` directory to perform the analysis.
-
-## Results and Insights
-
-![alt text](image.png)
-
+```
 
 ## Contributing
 
