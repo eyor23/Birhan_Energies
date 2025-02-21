@@ -3,3 +3,5 @@ scripts/__pycache__
 data/
 __pycache__
 models
+.vscode
+.github
