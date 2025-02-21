@@ -69,17 +69,17 @@ You can install these packages using pip:
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 For the dashboard, you will need Node.js and npm (or yarn) to install the React dependencies.
-```
+
 ## Running the Analysis
 
 1. Clone the repository: `git clone [repository URL]`
 2. Navigate to the project directory: `cd brent_oil_analysis`
 3. Install the Python requirements: `pip install -r requirements.txt`
 4. Run the Jupyter notebooks in the `notebooks/` directory to perform the analysis.
-```
+
 
 ## Contributing
 
