@@ -69,8 +69,6 @@ You can install these packages using pip:
 
 ```bash
 pip install -r requirements.txt
-```
-
 
 For the dashboard, you will need Node.js and npm (or yarn) to install the React dependencies.
 
