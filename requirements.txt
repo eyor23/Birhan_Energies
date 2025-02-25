@@ -1,1 +1,1 @@
-pip install pandas matplotlib seaborn warnings ruptures Scikit-learn
+pip install pandas matplotlib seaborn warnings ruptures Scikit-learn pmdarima arch tensorflow
